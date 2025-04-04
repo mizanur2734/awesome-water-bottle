@@ -1,0 +1,9 @@
+.card {
+    border: 2px solid teal;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.card img {
+    width: 200px;
+}
